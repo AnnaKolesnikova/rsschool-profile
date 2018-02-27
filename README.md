@@ -1,3 +1,3 @@
 # rsschool-profile
-Anna Kolsnikova
+Anna Kolesnikova 
 HTML CSS Basics: https://www.codecademy.com/users/AnnaKolesnikova/achievements
